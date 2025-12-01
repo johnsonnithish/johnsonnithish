@@ -8,14 +8,9 @@ Welcome to my GitHub profile; whether you are a recruiter or found my profile ra
 - Use the latest tech and resources at my disposal to solve my daily problems; however niche they maybe. 
 
 ## Programming Languages
-<img src="images/python.jpg" height=100px width=170px /> <img src="images/mysql.jpg" height=100px width=170px /> <img src="images/java.jpg" height=100px width=170px />
+<img src="images/python.png"/> <img src="images/sql.png"/> <img src="images/java.png"/>
 
-<img src="images/htmlcssjs.jpg" height=200px width=300px />
-
-- HTML/CSS
-- JavaScript
-- Java
-
+<img src="images/html.png"/> <img src="images/css.png"/> <img src="images/javascript.png"/> 
 ## Tools
 - Git
 - GitHub
