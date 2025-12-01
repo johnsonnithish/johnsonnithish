@@ -8,8 +8,8 @@ Welcome to my GitHub profile; whether you are a recruiter or found my profile ra
 - Use the latest tech and resources at my disposal to solve my daily problems; however niche they maybe. 
 
 ## Programming Languages
-- Python <img src="iamges/python.jpg">
-- SQL
+<img src="images/python.jpg" height=100px width=170px /> <img src="images/mysql.jpg" height=100px width=170px />
+
 - HTML/CSS
 - JavaScript
 - Java
