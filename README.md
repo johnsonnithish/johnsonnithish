@@ -9,11 +9,39 @@ Welcome to my GitHub profile; whether you are a recruiter or found my profile ra
 
 ## Programming Languages
 - Python
+- SQL
 - HTML/CSS
 - JavaScript
 - Java
 
-## 
+## Tools
+- Git
+- GitHub
+- Visual Studio Code
+- PyCharm
+- Intelli J
+- Docker
+- MySQL
+- Tableau
+- Work Flow Automation
+
+## Libraries &amp; Frameworks
+- React JS
+- Express JS
+- Fast API
+- Rasa
+- Pandas
+- Sci-Kit
+- Numpy
+- Seaborn
+
+## Projects
+
+### Gameboxd
+Gameboxd is my dream project that combines my love for games and my love for creating communal-friendly web app. GameBoxd allows you to browser any game and tag them as "Must Play" or "Played" and make custom lists. You can browse game by studios and consoles and soon rate them.
+
+### Spam Classifier
+As a good entry point into Mechine Learning, I have trained and exported 4 algorithm models, Multinomial Naive Bayes, Suppoer Vector Machine, Logistic Regression and Random Forest, which, with the help of a Fast API python script with cors middle-ware, takes sample text from a React front-end, proccess the text and send it back with confidence percentage.
 <!--
 **johnsonnithish/johnsonnithish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
