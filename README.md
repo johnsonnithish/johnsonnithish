@@ -8,7 +8,7 @@ Welcome to my GitHub profile; whether you are a recruiter or found my profile ra
 - Use the latest tech and resources at my disposal to solve my daily problems; however niche they maybe. 
 
 ## Programming Languages
-- Python
+- Python <img src="iamges/python.jpg">
 - SQL
 - HTML/CSS
 - JavaScript
@@ -42,6 +42,11 @@ Gameboxd is my dream project that combines my love for games and my love for cre
 
 ### Spam Classifier
 As a good entry point into Mechine Learning, I have trained and exported 4 algorithm models, Multinomial Naive Bayes, Suppoer Vector Machine, Logistic Regression and Random Forest, which, with the help of a Fast API python script with cors middle-ware, takes sample text from a React front-end, proccess the text and send it back with confidence percentage.
+
+### Solar Accessories
+During my Bachelors in Engineering, I, along with my teammate, managed to build a protoype of a solar accessory that goes with your shirt. The idea was that, if we managed to find a way to incorporate thin strips of solar panels along the design of shirt and t-shirt, the panels could absord the solar energy throughout the day and have enough energy to charge your daily driver devices.
+
+
 <!--
 **johnsonnithish/johnsonnithish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
