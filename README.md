@@ -12,15 +12,14 @@ Welcome to my GitHub profile; whether you are a recruiter or found my profile ra
 
 <img src="images/html.png"/> <img src="images/css.png"/> <img src="images/javascript.png"/> 
 ## Tools
-- Git
-- GitHub
-- Visual Studio Code
-- PyCharm
-- Intelli J
-- Docker
-- MySQL
-- Tableau
-- Work Flow Automation
+<img src="images/git.png"/> <img src="images/github.png"/> 
+
+<img src="images/vsc.png"/> <img src="images/pycharm.png"/> <img src="images/intellij.png"/>
+
+<img src="images/mysql.png"/> <img src="images/tableau.png"/>
+
+<img src="images/docker.png"/>
+
 
 ## Libraries &amp; Frameworks
 - React JS
