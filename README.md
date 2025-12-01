@@ -3,9 +3,7 @@
 Welcome to my GitHub profile; whether you are a recruiter or found my profile randomly or whatever it is, I hope you are impressed by my skills. If not, worry not I am always trying to improve myself.
 
 ## Programming Languages
-<img src="images/python.png"/> <img src="images/sql.png"/> <img src="images/java.png"/>
-
-<img src="images/html.png"/> <img src="images/css.png"/> <img src="images/javascript.png"/> 
+<img src="images/python.png"/> <img src="images/sql.png"/> <img src="images/java.png"/> <img src="images/html.png"/> <img src="images/css.png"/> <img src="images/javascript.png"/> 
 ## Tools
 <img src="images/git.png"/> <img src="images/github.png"/> 
 
