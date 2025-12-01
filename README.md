@@ -22,14 +22,7 @@ Welcome to my GitHub profile; whether you are a recruiter or found my profile ra
 
 
 ## Libraries &amp; Frameworks
-- React JS
-- Express JS
-- Fast API
-- Rasa
-- Pandas
-- Sci-Kit
-- Numpy
-- Seaborn
+<img src="images/react.png"/> <img src="images/express.png"/> <img src="images/fastapi.png"/> <img src="images/rasa.png"/> <img src="images/pandas.png"/>
 
 ## Projects
 
