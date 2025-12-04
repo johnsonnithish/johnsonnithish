@@ -7,7 +7,7 @@ Welcome to my GitHub profile; whether you are a recruiter or found my profile ra
 ## Tools
 <img src="images/git.png"/> <img src="images/github.png"/> 
 
-<img src="images/vsc.png"/> <img src="images/pycharm.png"/> <img src="images/intellij.png"/>
+<img src="images/vsc.png"/> <img src="images/pycharm.png"/> <img src="images/intellij.png"/> <img src="images/jupyterNotebook.png"/> <img src="images/googleColab.png"/>
 
 <img src="images/mysql.png"/> <img src="images/tableau.png"/>
 
